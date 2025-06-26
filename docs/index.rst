@@ -1,4 +1,4 @@
-How to Login Disney+ TV Account?
+How to Login Disney Plus TV Account?
 ------------------------------------------------------------------
 
 .. toctree::
